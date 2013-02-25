@@ -87,6 +87,7 @@
       display: block;
       height: 100%;
       width: 18px;
+      padding-top: 2px;
       b {
         background: url("chosen-sprite.png") no-repeat 0 2px;
         display: block;
@@ -199,7 +200,8 @@
         right: 3px;
         top: 4px;
         width: 12px;
-        height: 13px;
+        /*height: 13px;*/
+        height: 10px;
         font-size: 1px;
         background: url("chosen-sprite.png") right top no-repeat;
         &:hover {
